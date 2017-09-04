@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTouchMulti">
+        <attr name="canX" format="dimension"></attr>
+        <attr name="canY" format="dimension"></attr>
+        <attr name="canColor" format="color"></attr>
+        <attr name="radii" format="dimension"></attr>
+    </declare-styleable>
+</resources>
